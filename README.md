@@ -14,9 +14,9 @@ This resource pack addresses various language keys being shown instead of the pr
   * Fixes effect names not showing proper name on mobs via Jade (WAILA).
 
 # Things It Fixes (General)...
-* Andesite - All andesite items are now properly renamed to "Andersite"
+* Andesite - All andesite items are now properly renamed to "Andersite" like the base blocks were
 
 # Installation
-* Download latest release
+* Download latest [release](https://github.com/Kalbintion/VH3-Fixed-Name-Displays/releases) zip file
 * Place downloaded zip into resourcepacks folder
 * Add to active resource pack list

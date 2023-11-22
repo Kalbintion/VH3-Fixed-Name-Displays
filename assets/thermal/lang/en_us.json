@@ -1,0 +1,23 @@
+{
+	"entity.thermal.nuke_tnt": "Nuke TNT",
+	"entity.thermal.phyto_tnt": "Phyto TNT",
+	"entity.thermal.slime_tnt": "Slime TNT",
+	"entity.thermal.redstone_tnt": "Redstone TNT",
+	"entity.thermal.glowstone_tnt": "Glowstone TNT",
+	"entity.thermal.ender_tnt": "Ender TNT",
+	"entity.thermal.earth_tnt": "Earth TNT",
+	"entity.thermal.lightning_tnt": "Lightning TNT",
+	"entity.thermal.ice_tnt": "Ice TNT",
+	"entity.thermal.fire_tnt": "Fire TNT",
+	"entity.thermal.nuke_grenade": "Nuke Grenade",
+	"entity.thermal.phyto_grenade": "Phyto Grenade",
+	"entity.thermal.slime_grenade": "Slime Grenade",
+	"entity.thermal.redstone_grenade": "Redstone Grenade",
+	"entity.thermal.glowstone_grenade": "Glowstone Grenade",
+	"entity.thermal.ender_grenade": "Ender Grenade",
+	"entity.thermal.earth_grenade": "Earth Grenade",
+	"entity.thermal.lightning_grenade": "Lightning Grenade",
+	"entity.thermal.ice_grenade": "Ice Grenade",
+	"entity.thermal.fire_grenade": "Fire Grenade",
+	"entity.thermal.explosive_grenade": "Explosive Grenade"
+}

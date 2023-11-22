@@ -6,5 +6,6 @@
 	"block.mcwwindows.andesite_window2": "Andersite Pane Window",
 	"block.mcwwindows.andesite_four_window": "Andersite Four Pane Window",
 	"block.mcwwindows.andesite_parapet": "Andersite Parapet",
-	"block.mcwwindows.andesite_louvered_shutter": "Andersite Louvered Shutter"
+	"block.mcwwindows.andesite_louvered_shutter": "Andersite Louvered Shutter",
+	"entity.mcwfurnitures.chair": "Chair"
 }

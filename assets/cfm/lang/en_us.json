@@ -5,5 +5,6 @@
 	"block.cfm.andesite_cabinet": "Andersite Cabinet",
 	"block.cfm.andesite_bedside_cabinet": "Andersite Bedside Cabinet",
 	"block.cfm.andesite_desk": "Andersite Desk",
-	"block.cfm.andesite_desk_cabinet": "Andersite Desk Cabinet"
+	"block.cfm.andesite_desk_cabinet": "Andersite Desk Cabinet",
+	"entity.cfm.seat": "Seat"
 }

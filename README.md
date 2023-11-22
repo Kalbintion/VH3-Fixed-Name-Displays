@@ -12,9 +12,11 @@ This resource pack addresses various language keys being shown instead of the pr
   * Fixes totem names not showing with Jade (WAILA)
   * Fixes entity names for storm clouds, arrows, etc.
   * Fixes effect names not showing proper name on mobs via Jade (WAILA).
+  * Fixes time acceleration potions & arrows not showing proper name
 
 # Things It Fixes (General)...
 * Andesite - All andesite items are now properly renamed to "Andersite" like the base blocks were
+* Spawn Eggs - All spawn eggs that previously had an awkward name are fixed across multiple mods
 
 # Installation
 * Download latest [release](https://github.com/Kalbintion/VH3-Fixed-Name-Displays/releases) zip file
